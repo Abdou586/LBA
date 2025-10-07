@@ -136,4 +136,4 @@ L'application sera disponible à l'adresse : [http://localhost:3000](http://loca
 ## 📞 Support
 
 Pour toute question ou problème, veuillez contacter :
-- Email : niabalyabdoulatif@gmail.com# LBA
+- Email : niabalyabdoulatif@gmail.com
