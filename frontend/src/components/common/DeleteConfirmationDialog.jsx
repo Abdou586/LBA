@@ -6,8 +6,6 @@ import {
   DialogContent,
   DialogContentText,
   DialogTitle,
-  IconButton,
-  Box,
   Typography
 } from '@mui/material';
 import { Delete as DeleteIcon } from '@mui/icons-material';
