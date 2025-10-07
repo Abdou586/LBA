@@ -1,0 +1,26 @@
+{
+  "name": "product-management-app",
+  "version": "1.0.0",
+  "description": "Application de gestion de produits avec API Node.js/Express et interface React",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm start",
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "react",
+    "mongodb",
+    "redux",
+    "material-ui"
+  ],
+  "author": "Abdou Latif Niabaly",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
